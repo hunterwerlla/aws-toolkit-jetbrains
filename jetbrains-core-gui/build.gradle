@@ -14,8 +14,8 @@ intellij {
     updateSinceUntilBuild false
     downloadSources false
     instrumentCode false
-    // GUI test framework is not avilable in 2020.1
-    if(resolveIdeProfileName() != "2020.1") {
+    // GUI test framework is only avilable in 2019.3
+    if(resolveIdeProfileName() == "2019.3") {
         plugins = idePlugins("IC") + [guiTestFramework(), project(":")]
     }
 }
