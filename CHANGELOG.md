@@ -8,6 +8,7 @@
 - **(Feature)** Add refresh to S3 browser
 - **(Removal)** Dropped support for run/debug of deprecated Lambda runtimes
 
+
 # _1.14_ (2020-05-04)
 - **(Feature)** Add support for selecting regions in other partitions
 
