@@ -1,5 +1,6 @@
 # _1.16_ (2020-05-27)
 - **(Breaking Change)** The toolkit now requires 2019.3 or newer
+
 - **(Feature)** Add support for GoLand, CLion, RubyMine, and PhpStorm
 
 # _1.15_ (2020-05-21)
