@@ -6,6 +6,8 @@
 
 
 
+
+
 - **(Feature)** Add the ability to build in container when updating function code ([#1740](https://github.com/aws/aws-toolkit-jetbrains/issues/1740))
 - **(Feature)** Add refresh to S3 browser
 - **(Removal)** Dropped support for run/debug of deprecated Lambda runtimes
