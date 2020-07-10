@@ -3,7 +3,6 @@
 - **(Feature)** Add support for GoLand, CLion, RubyMine, and PhpStorm
 
 
-
 # _1.15_ (2020-05-21)
 
 
